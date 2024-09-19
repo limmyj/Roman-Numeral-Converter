@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  padding: 50px;
+}
+
+input, button {
+  padding: 10px;
+  margin: 10px;
+}
+
+* {
+  background-color: #fef4c0;
+  box-sizing: border-box;
+}
